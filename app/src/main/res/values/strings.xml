@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab_222</string>
+    <string name="i_love_android">I love android</string>
+    <string name="switch_on_off">Switch on/off</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="check_this_out">Check this out</string>
+
+
+    <string name="Press_Me">Press Me</string>
+    <string name="Label_has_been_updated">Label has been updated</string>
+    <string name="létiquette_a_été_mise_à_jour">Létiquette_a_été_mise_à_jour</string>
+
+</resources>

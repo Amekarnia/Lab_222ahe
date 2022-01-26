@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab_222</string>
+    <string name="i_love_android">j\'aime androïde</string>
+    <string name="switch_on_off">"allumer / éteindre "</string>
+    <string name="Label_has_been_updated">l\'étiquette a été mise à jour</string>
+    <string name="check_this_out">"regarde ça! "</string>
+    <string name="Press_Me">presse-moi</string>
+    <string name="létiquette_a_été_mise_à_jour">l\'étiquette a été mise à jour</string>
+</resources>
